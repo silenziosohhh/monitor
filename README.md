@@ -1,7 +1,4 @@
-Perfetto! Ecco un README pronto da copiare e incollare per il tuo progetto di monitoraggio siti su GitHub. Ho incluso emoji, badge e una struttura chiara e “carina”:
-
-````markdown
-# 🌐 SiteMonitor
+# 🌐 Monitor
 
 ![GitHub stars](https://img.shields.io/github/stars/silenziosohhh/monitor?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/silenziosohhh/monitor?style=social)
@@ -75,5 +72,3 @@ Tutti i contributi sono benvenuti! 💖
 
 
 Made by **Silenziosoh**
-
-```

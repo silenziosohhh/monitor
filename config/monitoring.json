@@ -1,0 +1,13 @@
+{
+  "timeout_ms": 3000,
+  "check_interval_sec": 30,
+  "degraded_threshold_ms": 1200,
+  "services": [
+    {
+      "id": 1,
+      "headers": {
+        "Authorization": "Bearer TOKEN"
+      }
+    }
+  ]
+}

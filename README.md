@@ -40,7 +40,7 @@
 git clone https://github.com/silenziosohhh/monitor.git
 
 # Entra nella cartella del progetto
-cd sitemonitor
+cd monitor
 
 # Installa le dipendenze
 npm install   # oppure pip install -r requirements.txt
@@ -72,3 +72,4 @@ Tutti i contributi sono benvenuti! 💖
 
 
 Made by **Silenziosoh**
+
